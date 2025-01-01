@@ -1,0 +1,19 @@
+{
+  "name": "thing_hello",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@thi.ng/associative": "^7.0.17",
+    "@thi.ng/atom": "^5.3.15",
+    "@thi.ng/compose": "^3.0.18",
+    "@thi.ng/paths": "^5.1.95",
+    "@thi.ng/transducers": "^9.2.11",
+    "@thi.ng/vectors": "^7.12.12"
+  }
+}
